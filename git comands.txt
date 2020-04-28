@@ -1,0 +1,25 @@
+
+git config --global user.email "joy91740@gmail.com"
+git config --global user.name "Joy Debnath"
+
+basic Commands
+
+1) git init
+2) git add [filename] -A
+3) git status
+4) git commit -m "msg"
+5) git remote add origin repoName
+6) git push origin master
+7) git clone repoName
+8) git pull origin master
+
+Logs Commands
+
+git log
+git log -p
+git log --oneline
+git log -2
+git log -i --grep="text"
+git log -i -G="Text in code"
+git log -i --author="Ajay Suneja"
+git log --start
